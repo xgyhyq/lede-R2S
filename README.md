@@ -8,6 +8,10 @@
 
 感谢源码作者做出的贡献。
 
+argon主题项目地址：https://github.com/jerrykuku/luci-theme-argon/releases
+
+感谢项目作者做出的贡献。
+
 免责声明
 
 感谢您选择使用本人提供的路由器固件。在使用之前，请务必仔细阅读并理解以下声明内容：
